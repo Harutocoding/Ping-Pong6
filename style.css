@@ -1,0 +1,25 @@
+.footer
+{
+ bottom: 0;
+ width: 100%;
+ text-align: center;
+ position: fixed;
+ line-height: 3;
+ background-color: red;
+}
+.heading{
+    width:100%;
+}
+#Instruction
+{
+    float:right;
+}
+.heading h3
+{
+   font-size: 30px; 
+}
+canvas
+{
+    box-shadow: 15px 15px 15px blue;
+    border-radius: 20px;
+}
